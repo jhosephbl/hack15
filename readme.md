@@ -3,4 +3,4 @@ El poder manejar las rutas y redireccionamientos correctamente, asi como definir
 
 
 ● ¿Para qué sirve un manejador de rutas?
-Para poder definir las rutas de un proyecto
+Para poder definir las rutas de un proyecto.
