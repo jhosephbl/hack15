@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(a,n,t){"use strict";t.r(n);var c=t("7a23"),e={class:"about"},o=Object(c["f"])("h1",null,"Esta hackaton esta auspiciada por Alianza Lima y el ascenso.",-1);function s(a,n){return Object(c["o"])(),Object(c["d"])("div",e,[o])}const i={};i.render=s;n["default"]=i}}]);
+//# sourceMappingURL=about.4865923c.js.map
